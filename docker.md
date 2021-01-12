@@ -216,3 +216,10 @@ rootfs在bootfs之上。包含的是典型Linux系统中的/dev,/proc,/etc等标
   * 以没有模板的tocamt，commit一个没有doc的tomcat的新镜像
 
   * 启动新镜像，进行对比
+
+
+
+
+
+## 5.容器数据卷
+
